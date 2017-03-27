@@ -1,4 +1,4 @@
-﻿$server = "prtg.techo-bloc.local"
+﻿$server = "serverurl"
 $port = "10443";
 $username = Read-Host 'What is your PRTG username?'
 $password = Read-Host 'What is your PRTG password?'
